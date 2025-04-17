@@ -127,7 +127,8 @@ c) Trustworthy (Graph) Learning
 
 <br/>
 
-# 📃 Selected Publications ([Full List](https://scholar.google.com/citations?user=pB8zP9UAAAAJ))
+# 📃 Selected Publications ()
+<!-- # 📃 Selected Publications ([Full List](https://scholar.google.com/citations?user=pB8zP9UAAAAJ))-->
 <!--
 
 **&dagger; Equal Contribution**   
