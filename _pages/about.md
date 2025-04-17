@@ -233,7 +233,7 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px;">
     <div style="flex: 1; font-size: 1.1em;">
-      <strong>2021.09 - 2025.06</strong><br/>
+      <strong>2022.09 - 2026.06</strong><br/>
       Undergraduate, School of Computer Science, Wuhan University<br/>
     </div>
     <div style="flex-shrink: 0; max-width: 100px;">
