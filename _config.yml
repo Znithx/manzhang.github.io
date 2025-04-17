@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guancheng Wan's Homepage"
-description              : "gcwan03 [at] ucla.edu"
-repository               : "GuanchengWan/guanchengWan.github.io"
+title                    : "Man Zhang's Homepage"
+description              : "manzhang1 [at] whu.edu.cn"
+repository               : "znithx/manzhang.github.io"
 google_scholar_stats_use_cdn : true
 
 
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guancheng Wan"
+  name             : "Man Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Undergraduate Student"
   location         :
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=pB8zP9UAAAAJ"
-  email            : "gcwan03@ucla.edu"
+  googlescholar    : ""
+  email            : "manzhang1@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -38,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GuanchengWan"
+  github           : "znithx"
   google_plus      : 1
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "guancheng-wan-b80218276" # e.g., "linkedin username"
+  linkedin         : "" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "suhui03"
+  twitter          : ""
   vine             :
   weibo            : 1
   xing             :
