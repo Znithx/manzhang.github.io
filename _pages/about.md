@@ -71,15 +71,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('.toggle-symbol').textContent = this.nextElementSibling.style.display === 'block' ? '▼' : '►';"><span class="toggle-symbol" style="margin-right: 5px;">►</span><span style="color: gray;">How to pronounce?</span></span>
-<span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, a 4<sup>th</sup>-year undergraduate student at Wuhan University CS, working closely with [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). I am an incoming CS PhD student (25 Fall) at UCLA, supervised by [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ).
+My name is Man Zhang，a 3<sup>th</sup>-year undergraduate student at Wuhan University CS, working closely with [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN) 
 
-Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
-and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ).
-<!-- I was also fortunate to work with [Nitesh V. Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en), and [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ). -->
-
-
-<!-- 🌟 I'm actively applying for a Ph.D. position in 2025 Fall! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
+ 🌟 I'm actively applying for a Ph.D. or Master position in 2026 Fall! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> 
 
 
 # 🔎 Research 
@@ -102,7 +96,7 @@ c) Trustworthy (Graph) Learning
 # 🔥 News
 
 
-<div style="max-height: 250px; overflow-y: auto;">
+<!--<div style="max-height: 250px; overflow-y: auto;">
 <ul>
   <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt </strong> (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
@@ -129,7 +123,7 @@ c) Trustworthy (Graph) Learning
   <li><em>2023.10:</em> I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student (Award Rate: 60/59774=0.1%).</li>
   <li><em>2023.08:</em> we attended <em>the 32nd international joint conference on artificial intelligence (<strong>ijcai</strong>)</em> and presented our work in macao.</li>
 </ul>
-</div>
+</div>-->
 
 <br/>
 
