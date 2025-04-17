@@ -163,9 +163,10 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 
 
 
+<!--
 # 📝 Manuscripts
 
-<!--
+
 - **Rethink GraphODE Generalization within Coupled Dynamical System**  
 **Guancheng Wan**, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang  
 
@@ -241,9 +242,5 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
     </div>
   </div>
 </div>
-
-<dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
-
-
 
 
