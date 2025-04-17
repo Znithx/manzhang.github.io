@@ -128,9 +128,10 @@ c) Trustworthy (Graph) Learning
 <br/>
 
 # 📃 Selected Publications ([Full List](https://scholar.google.com/citations?user=pB8zP9UAAAAJ))
+<!--
 
 **&dagger; Equal Contribution**   
-<!--
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FedTGE.png">
@@ -157,8 +158,8 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 
 </dl>
 
-<hr>-->
-
+<hr>
+-->
 
 
 
