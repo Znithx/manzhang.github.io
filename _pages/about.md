@@ -182,8 +182,9 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 <hr>
 -->
 # 🎡 Service
-## Program Chair
 <!--
+## Program Chair
+
 - [FedKDD 2025 Workshop@KDD 2025](https://fedkdd.github.io/fedkdd2025/)
 
 
@@ -197,9 +198,6 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 - ACM TKDD
 - Pattern Recognition (PR)
 - Data-centric Machine Learning Research (DMLR)
-
-<!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
-
 
 <br/>
 
